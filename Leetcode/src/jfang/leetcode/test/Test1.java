@@ -1,13 +1,13 @@
 package jfang.leetcode.test;
 
-import jfang.leetcode.solution.Solution1;
+import jfang.leetcode.solution.Solution001;
 
 public class Test1 {
 
 	public static void main(String[] args) {
 		int[] numbers = {2, 7, 11, 15};
 		int target = 9;
-		Solution1 solution = new Solution1();
+		Solution001 solution = new Solution001();
 		int[] res = solution.twoSum(numbers, target);
 		System.out.print(res[0] + ", " + res[1]);
 	}

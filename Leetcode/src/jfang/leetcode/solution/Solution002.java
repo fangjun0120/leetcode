@@ -2,7 +2,7 @@ package jfang.leetcode.solution;
 
 import jfang.leetcode.support.ListNode;
 
-public class Solution2 {
+public class Solution002 {
 
 	public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode head = new ListNode(0);

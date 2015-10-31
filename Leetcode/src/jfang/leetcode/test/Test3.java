@@ -1,11 +1,11 @@
 package jfang.leetcode.test;
 
-import jfang.leetcode.solution.Solution3;
+import jfang.leetcode.solution.Solution003;
 
 public class Test3 {
 
 	public static void main(String[] args) {
-		Solution3 solution = new Solution3();
+		Solution003 solution = new Solution003();
 		int len = solution.lengthOfLongestSubstring("abba");
 		System.out.println(len);
 	}
