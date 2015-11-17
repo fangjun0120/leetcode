@@ -3,6 +3,11 @@ package jfang.leetcode.solution;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * Two Sum
+ * @author jfang
+ *
+ */
 public class Solution001 {
 
 	public int[] twoSum(int[] numbers, int target) {

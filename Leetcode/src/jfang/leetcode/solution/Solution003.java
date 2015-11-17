@@ -3,6 +3,11 @@ package jfang.leetcode.solution;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * Longest Substring Without Repeating Characters
+ * @author jfang
+ *
+ */
 public class Solution003 {
 
 	public int lengthOfLongestSubstring(String s) {
