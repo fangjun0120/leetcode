@@ -2,6 +2,11 @@ package jfang.leetcode.solution.easy;
 
 import jfang.leetcode.support.TreeNode;
 
+/**
+ * Maximum Depth of Binary Tree
+ * @author jfang
+ *
+ */
 public class Solution104 {
 
 	public int minDepth(TreeNode root) {
