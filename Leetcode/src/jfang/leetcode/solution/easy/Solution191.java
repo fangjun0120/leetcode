@@ -1,5 +1,10 @@
 package jfang.leetcode.solution.easy;
 
+/**
+ * Number of 1 Bits
+ * @author jfang
+ *
+ */
 public class Solution191 {
 
 	// you need to treat n as an unsigned value
